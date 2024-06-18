@@ -1,1 +1,2 @@
 # ranglar
+# Rangli-tugmalar
